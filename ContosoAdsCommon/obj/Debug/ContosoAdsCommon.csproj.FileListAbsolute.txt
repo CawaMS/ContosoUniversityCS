@@ -1,0 +1,11 @@
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.dll.config
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.dll
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.pdb
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\bin\Debug\EntityFramework.dll
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\bin\Debug\EntityFramework.xml
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.csprojResolveAssemblyReference.cache
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.csproj.CoreCompileInputs.cache
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.dll
+C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.pdb

@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Emulator config file set to C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCloudService\csx\Debug\roles\ContosoAdsWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] DiagnosticsStoreRootPath set to: C:\Users\cawa\AppData\Local\dftmp\Resources\464fd644-8498-4449-8fc4-81c2f6667e42
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Loading config file: C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCloudService\csx\Debug\roles\ContosoAdsWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Config file to read: C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCloudService\csx\Debug\roles\ContosoAdsWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Emulator config file set to C:\Users\cawa\Downloads\ContosoUniversity\ContosoAdsCloudService\csx\Debug\roles\ContosoAdsWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:26 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:27 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:27 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:27 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:28 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [9/22/2017 4:18:28 AM] Resetting DiagnosticPlugin
